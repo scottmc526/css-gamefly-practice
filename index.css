@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+.nav {
+  height: 10vh;
+  width: 100vw;
+  background-color: #13262b;
+}
+
+.navLink {
+  display: flex;
+  flex-direction: row;
+}
+.gfly_img {
+  padding: 10%;
+}
+
+p {
+  color: white;
+  padding: 2.5%;
+}
